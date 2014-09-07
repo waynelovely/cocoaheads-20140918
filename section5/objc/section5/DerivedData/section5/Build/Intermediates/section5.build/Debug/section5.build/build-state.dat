@@ -1,0 +1,112 @@
+Tsection5
+v6
+r1
+cCheck dependencies
+cCompileC DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug/section5 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005348275900000000000000AA
+t1397237593
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052673A0A000000000000044C
+t1382496778
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531FA2EC00000000000001DE
+t1394582252
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531FA2EF0000000000000ADC
+t1394582255
+s2780
+
+N/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o
+t1410119372
+s3536
+
+N/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/section5.LinkFileList
+c00000000540CB6CB00000000000000B1
+t1410119371
+s177
+
+N/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug/section5
+t2
+s0
+
+N/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c
+c00000000540CB6CB00000000000002BE
+t1410119371
+s702
+
+CBuild AST from /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies91d2a44beebcb941^8e1eaf4beebcb941^---0#1#1#--18"Check dependencies36"1E8E336C-626A-4CF7-8E6C-09B57B3213F5-
+
+CCompileC DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s431812171.675222
+e431812172.264841
+r1
+xCompileC
+xDerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o
+x/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c190"CompileC DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o section5/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler9982ad4beebcb941^01dd434ceebcb941^---0#0#1#-19%DVTDocumentLocation2@93"file:///Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c0000000000000000^3488"CompileC DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o section5/main.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -Wno-sign-conversion -iquote /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/section5-generated-files.hmap -I/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/section5-own-target-headers.hmap -I/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/section5-all-target-headers.hmap -iquote /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/section5-project-headers.hmap -I/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/DerivedSources/x86_64 -I/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/DerivedSources -F/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug -MMD -MT dependencies -MF /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.dia -c /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/section5/main.c -o /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o36"CD8063FA-031D-429B-8ED9-9C85A8AB2F59-
+b1D2D40F4-2419-4BBE-B291-BC04830D4246
+
+CLd /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug/section5 normal x86_64
+s431812172.265744
+e431812172.294314
+r1
+xLd
+x/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug/section5
+xnormal
+xx86_64
+d/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/section5.LinkFileList
+d/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug/section567"Ld DerivedData/section5/Build/Products/Debug/section5 normal x86_64101f444ceebcb941^df704b4ceebcb941^---0#0#1#--1223"Ld DerivedData/section5/Build/Products/Debug/section5 normal x86_64    cd /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug -F/Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug -filelist /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/section5.LinkFileList -mmacosx-version-min=10.9 -Xlinker -dependency_info -Xlinker /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Intermediates/section5.build/Debug/section5.build/Objects-normal/x86_64/section5_dependency_info.dat -o /Users/wlovely/ios-projects/cocoaheads-20140918/section5/objc/section5/DerivedData/section5/Build/Products/Debug/section536"FCDE4C51-D7A7-466E-8E33-D2182C2CA9E1-
+b1D2D40F4-2419-4BBE-B291-BC04830D4246
+
